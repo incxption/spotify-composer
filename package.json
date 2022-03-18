@@ -11,7 +11,7 @@
     "craco": "^0.0.3",
     "craco-alias": "^2.2.0",
     "framer-motion": "^4.0.0",
-    "postcss": "^7.0.35",
+    "postcss": "^7.0.36",
     "react": "^17.0.1",
     "react-device-detect": "^1.17.0",
     "react-dom": "^17.0.1",
